@@ -5,7 +5,7 @@ jdcal==1.4
 macholib==1.11
 openpyxl==2.6.1
 pefile==2018.8.8
-psutil==5.6.1
+psutil==5.6.6
 PyInstaller==3.4
 pywin32-ctypes==0.2.0
 selenium==3.141.0
